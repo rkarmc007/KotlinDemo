@@ -1,0 +1,1 @@
+class MinBalanceException(message: String) : Exception(message)
